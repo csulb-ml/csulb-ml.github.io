@@ -4076,6 +4076,17 @@ div.scroll > h4{
   transition: background-color 0.6s ease;
   background-image: url('../../images/pic02.jpg');
 }
+.buttonDaniel {
+  cursor: pointer;
+  height: 140px;
+  width: 140px;
+  margin: 0 2px;
+  border-radius: 10px;
+  background-color: #bbb;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+  background-image: url('../../images/profile_daniel.jpg');
+}
 .buttonVincent {
   cursor: pointer;
   height: 140px;

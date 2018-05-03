@@ -1,0 +1,57 @@
+body{
+	background-color: #d9d9d9;
+	margin: 0.5;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+
+/*Header Property*/
+h1.header{
+	font-family: "Times New Roman", Times, serif;	
+}
+/*---------------*/
+
+
+/*Page Properties*/
+div.page{
+	margin:auto;
+	width: 80%;
+	/*border: 3px solid #000000;*/
+	padding: 5px;
+	background-color: #ffffff;
+}
+/*---------------*/
+
+/*Credit Properies*/
+div.credit{
+	max-width: 400px;
+	height: 40px;
+}
+img.github{
+	width: 40px;
+	height: 40px;
+}
+p.patrapee{
+	font-size: 14px;
+}
+/*---------------*/
+
+/*Content Properties*/
+div.content{
+	margin-top: 30px;
+	padding-left: 10px;
+}
+p.text{
+	font-size: 15px;
+}
+img.center{
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+div.graySpace{
+	background-color: #d9d9d9;
+	height: 50px;
+	margin-bottom: 10px;
+}
